@@ -1,0 +1,54 @@
+body {
+	background-color: #efeee7;
+	font-family: "Georgia", Times New Roman, Times, Serif;
+	color: #333333;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+}
+
+/* Header for Page Title */
+h1 {
+	background-color: #333333;
+	color: #eee;
+	font-size: 28px;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+	padding: 18px 0px 18px 0px;
+}
+
+/* Headers for Subtitles */
+h2 {
+	font-size: 24px;
+
+}
+
+.container {
+	width: 1024px;
+	align-content: center;
+	margin: 0 auto;
+	line-height: 1.5; 
+}
+/* Bio Picture */
+#bio-image {
+	margin: 0px 20px 15px 0px;
+	float: left;
+}
+
+/* Main Profile */
+#main-bio {
+	float: left;
+	width: 70%;
+}
+a {
+	color: #d21034;
+}
+
+/* Contact Information */
+#contact-info {
+	float: left;
+	width: 30%;
+}
+li {
+	color: #d21034;
+}
+
